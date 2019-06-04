@@ -1,0 +1,1 @@
+java -jar out/artifacts/slave_jar/slave.jar 8080

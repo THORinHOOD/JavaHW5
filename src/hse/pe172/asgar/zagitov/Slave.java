@@ -36,7 +36,7 @@ public class Slave {
             System.out.println(WRONG_COUNT_ARGS);
             return;
         }
-        Optional<Integer> port = IntegerInputHandler.input(args[1], x -> true);
+        Optional<Integer> port = IntegerInputHandler.input(args[0], x -> true);
 
         if (port.isPresent()) {
             try {

@@ -63,9 +63,11 @@ public class Main {
         }
 
         int[] array = IntegerArrayGenerator.generateArray(N.get(), M.get());
-        System.out.println("Origin array : " + arrayToString(array));
+        String originStr = "Origin array : " + arrayToString(array);
+        System.out.println(originStr);
+        print(false, originStr);
         System.out.println();
-        print(false, FirstSort(array));
+        print(true, FirstSort(array));
         System.out.println();
         print(true, SecondSort(array));
         System.out.println();
