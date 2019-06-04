@@ -1,1 +1,1 @@
-java -jar out/artifacts/main_jar/main.jar 500 25 localhost 8080
+java -jar out/artifacts/main_jar/main.jar 2000 25 localhost 8080

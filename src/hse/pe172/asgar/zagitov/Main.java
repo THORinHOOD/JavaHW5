@@ -29,6 +29,7 @@ public class Main {
     public static final String WRONG_COUNT_ARGS = "Not enough arguments, there must be four (N, M, adress, port).";
     public static final String WRONG_PORT_TYPE = "Port argument should be integer.";
     public static final String FILE = "results.txt";
+    public static final String FILE_ARRAY = "array.txt";
 
     /**
      * Точка входа программы
@@ -63,44 +64,46 @@ public class Main {
         }
 
         int[] array = IntegerArrayGenerator.generateArray(N.get(), M.get());
-        String originStr = "Origin array : " + arrayToString(array);
-        System.out.println(originStr);
-        print(false, originStr);
+
+        print(false, false, FILE_ARRAY, "Origin array : " + arrayToString(array));
+
         System.out.println();
-        print(true, FirstSort(array));
+        int[] sorted = array.clone();
+        print(false, true, FILE, FirstSort(sorted));
+        print(true, false, FILE_ARRAY, "Sorted array (1) : " + arrayToString(sorted));
         System.out.println();
-        print(true, SecondSort(array));
+        sorted = array.clone();
+        print(true, true, FILE, SecondSort(sorted));
+        print(true, false, FILE_ARRAY, "Sorted array (2) : " + arrayToString(sorted));
         System.out.println();
-        print(true, ThirdSort(array, address, port.get()));
+        sorted = array.clone();
+        print(true, true, FILE, ThirdSort(sorted, address, port.get()));
+        print(true, false, FILE_ARRAY, "Sorted array (3) : " + arrayToString(sorted));
         System.out.println();
     }
 
     /**
      * Первая сортировка
-     * @param origin исходный массив
+     * @param array массив, который будет отсортирован
      * @return строки с результатами
      */
-    public static String[] FirstSort(int[] origin) {
-        int[] array = origin.clone();
+    public static String[] FirstSort(int[] array) {
         Sorter sorter = new MergeSorter();
         sorter.sort(array);
         return new String[]{  String.format(SORT_HEADER, 1),
-                              String.format(SORT_SORTED_ARRAY, arrayToString(array)),
                               String.format(SORT_ALL_TIME, sorter.getAllTime())};
     }
 
     /**
      * Вторая сортировка, в которой вторая часть сортируется в thread'е,
      * первая в исходном thread'e
-     * @param origin исходный массив
+     * @param array массив, который будет отсортирован
      * @return строки с результатом
      */
-    public static String[] SecondSort(int[] origin) {
-        int[] array = origin.clone();
+    public static String[] SecondSort(int[] array) {
         Sorter sorter = new ThreadMergeSorter();
         sorter.sort(array);
         return new String[]{  String.format(SORT_HEADER, 2),
-                              String.format(SORT_SORTED_ARRAY, arrayToString(array)),
                               String.format(SORT_ALL_TIME, sorter.getAllTime()),
                               String.format(SORT_PART_TIME, 1, sorter.getPartLeftTime()),
                               String.format(SORT_PART_TIME, 2, sorter.getPartRightTime()),
@@ -109,18 +112,16 @@ public class Main {
 
     /**
      * Третий тест, используя сокеты
-     * @param origin имходный сгенерированный массив
+     * @param array массив, который будет отсортирован
      * @param address адрес сервера
      * @param port порт сервера
      * @return строки с результатом
      */
-    public static String[] ThirdSort(int[] origin, String address, Integer port) {
+    public static String[] ThirdSort(int[] array, String address, Integer port) {
         try (Socket socket = new Socket(address, port)) {
-            int[] array = origin.clone();
             TCPMergeSorterClient sorter = TCPMergeSorterClient.getInstance(socket);
             sorter.sort(array);
             return new String[] { String.format(SORT_HEADER, 3),
-                                  String.format(SORT_SORTED_ARRAY, arrayToString(array)),
                                   String.format(SORT_ALL_TIME, sorter.getAllTime()),
                                   String.format(SORT_PART_TIME, 1, sorter.getPartLeftTime()),
                                   String.format(SORT_PART_TIME, 2, sorter.getPartRightTime()),
@@ -138,12 +139,14 @@ public class Main {
      * @param append добавлять в файл или запись в новый
      * @param lines строки, которые нужно вывести
      */
-    public static void print(boolean append, String... lines) {
-        for (String line : lines) {
-            System.out.println(line);
+    public static void print(boolean append, boolean printToConsole, String fileName, String... lines) {
+        if (printToConsole) {
+            for (String line : lines) {
+                System.out.println(line);
+            }
         }
 
-        try(FileOutputStream fos = new FileOutputStream(FILE, append);
+        try(FileOutputStream fos = new FileOutputStream(fileName, append);
             PrintStream printStream = new PrintStream(fos))
         {
             for (String line : lines) {
@@ -152,7 +155,7 @@ public class Main {
             printStream.println();
         }
         catch(IOException ex) {
-            System.out.println("Не удалось записать в файл");
+            System.out.println("Can't write into file : " + fileName);
         }
     }
 
