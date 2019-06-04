@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="main" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c77897f3-f4ad-4676-889a-58071db40248" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="134" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-57">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerInputHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerArrayGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+              <folding>
+                <element signature="e#831#832#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/ServerSocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="212" column="34" lean-forward="true" selection-start-line="211" selection-start-column="22" selection-end-line="212" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/TCPMergeSorterClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2287#2288#0" expanded="true" />
+                <element signature="e#2318#2319#0" expanded="true" />
+                <element signature="e#2447#2448#0" expanded="true" />
+                <element signature="e#2481#2482#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/MergeSorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/tools/AssertTools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/ThreadMergeSorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/Sorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="112" column="29" selection-start-line="112" selection-start-column="29" selection-end-line="112" selection-end-column="29" />
+              <folding>
+                <element signature="e#2618#2619#0" expanded="true" />
+                <element signature="e#2648#2649#0" expanded="true" />
+                <element signature="e#2685#2686#0" expanded="true" />
+                <element signature="e#2720#2721#0" expanded="true" />
+                <element signature="e#2758#2759#0" expanded="true" />
+                <element signature="e#2794#2795#0" expanded="true" />
+                <element signature="e#2828#2829#0" expanded="true" />
+                <element signature="e#2860#2861#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/Sorters/SimpleSort.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/InputHandler.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerInputHandler.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerInputHandlerTest.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/utils/IntegerInputHandlerTest.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/MergeSort.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/utils/IntegerArrayGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/FileWriterHandler.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/FileHandler.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/TCPMergeSorter.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/tools/TestSort.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/sorters/ThreadMergeSorterTest.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/sorters/MergeSorterTest.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/tools/TestSortBase.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/tools/AssertTools.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/sorters/TCPMergeSorterTest.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/Slave.java" />
+        <option value="$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/Main.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerArrayGenerator.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/ThreadMergeSorter.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/TCPMergeSorterServer.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/TCPMergeSorterClient.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/Sorter.java" />
+        <option value="$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/MergeSorter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="main_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="slave_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zagitov" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zagitov" type="462c0819:PsiDirectoryNode" />
+              <item name="sorters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zagitov" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="zagitov" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="zagitov" type="462c0819:PsiDirectoryNode" />
+              <item name="sorters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="zagitov" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="zagitov" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/MANIFESTS/META-INF/slave" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hse.pe172.asgar.zagitov" />
+      <recent name="hse.pe172.asgar.zagitov.sorters" />
+      <recent name="hse.pe172.asgar.zagitov.utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in HW5">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hse.pe172.asgar.zagitov.Main" />
+      <module name="HW5" />
+      <option name="PROGRAM_PARAMETERS" value="3 10 localhost 8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hse.pe172.asgar.zagitov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Slave" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hse.pe172.asgar.zagitov.Slave" />
+      <module name="HW5" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 8080" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in HW5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.firstSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hse.pe172.asgar.zagitov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hse.pe172.asgar.zagitov" />
+      <option name="MAIN_CLASS_NAME" value="hse.pe172.asgar.zagitov.MainTest" />
+      <option name="METHOD_NAME" value="firstSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.secondSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hse.pe172.asgar.zagitov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hse.pe172.asgar.zagitov" />
+      <option name="MAIN_CLASS_NAME" value="hse.pe172.asgar.zagitov.MainTest" />
+      <option name="METHOD_NAME" value="secondSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.thirdSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hse.pe172.asgar.zagitov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hse.pe172.asgar.zagitov" />
+      <option name="MAIN_CLASS_NAME" value="hse.pe172.asgar.zagitov.MainTest" />
+      <option name="METHOD_NAME" value="thirdSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Slave" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in HW5" />
+      <item itemvalue="JUnit.MainTest.firstSort" />
+      <item itemvalue="JUnit.MainTest.secondSort" />
+      <item itemvalue="JUnit.MainTest.thirdSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in HW5" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.thirdSort" />
+        <item itemvalue="JUnit.MainTest.secondSort" />
+        <item itemvalue="JUnit.MainTest.firstSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c77897f3-f4ad-4676-889a-58071db40248" name="Default Changelist" comment="" />
+      <created>1559143682901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559143682901</updated>
+      <workItem from="1559143689854" duration="10564000" />
+      <workItem from="1559214461539" duration="19825000" />
+      <workItem from="1559651545669" duration="2976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MainTest_secondSort - 2019.05.30 at 19h 53m 45s.xml">
+      <configuration name="MainTest.secondSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_secondSort - 2019.05.30 at 19h 54m 04s.xml">
+      <configuration name="MainTest.secondSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_secondSort - 2019.05.30 at 19h 54m 17s.xml">
+      <configuration name="MainTest.secondSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HW5 - 2019.05.30 at 19h 54m 23s.xml">
+      <configuration name="All in HW5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_thirdSort - 2019.05.30 at 19h 57m 48s.xml">
+      <configuration name="MainTest.thirdSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HW5 - 2019.05.30 at 19h 57m 55s.xml">
+      <configuration name="All in HW5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HW5 - 2019.05.30 at 19h 58m 49s.xml">
+      <configuration name="All in HW5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HW5 - 2019.06.04 at 15h 55m 59s.xml">
+      <configuration name="All in HW5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HW5 - 2019.06.04 at 15h 59m 53s.xml">
+      <configuration name="All in HW5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HW5 - 2019.06.04 at 16h 08m 18s.xml">
+      <configuration name="All in HW5" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33365000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3049253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30064654" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297414" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.21472053" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="partRightTime" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW5$Main.ic" NAME="Main Coverage Results" MODIFIED="1559222647801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HW5$Slave.ic" NAME="Slave Coverage Results" MODIFIED="1559222623251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hse.pe172.asgar.zagitov.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HW5$All_in_HW5.ic" NAME="All in HW5 Coverage Results" MODIFIED="1559653697045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>allTime</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>try (Socket clientSocket = new Socket(&quot;localhost&quot;,6786)) {
+    DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
+    DataInputStream inFromServer = new DataInputStream(clientSocket.getInputStream());
+
+    outToServer.writeInt(2);
+    outToServer.writeInt(1);
+    outToServer.writeInt(4);
+    System.out.println(inFromServer.readLong());
+    System.out.println(inFromServer.readInt());
+    System.out.println(inFromServer.readInt());
+
+} catch (UnknownHostException e) {
+    e.printStackTrace();
+} catch (IOException e) {
+    e.printStackTrace();
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>try (Socket clientSocket = new Socket(&quot;localhost&quot;,6786)) {
+                DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
+                DataInputStream inFromServer = new DataInputStream(clientSocket.getInputStream());
+
+                outToServer.writeInt(2);
+                outToServer.writeInt(1);
+                outToServer.writeInt(4);
+                System.out.println(inFromServer.readLong());
+                System.out.println(inFromServer.readInt());
+                System.out.println(inFromServer.readInt());
+
+} catch (UnknownHostException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>try (Socket clientSocket = new Socket(&quot;localhost&quot;,6786)) {
+                DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
+                DataInputStream inFromServer = new DataInputStream(clientSocket.getInputStream());
+
+//                outToServer.writeInt(2);
+//                outToServer.writeInt(1);
+//                outToServer.writeInt(4);
+            System.out.println(inFromServer.readLong());
+            } catch (UnknownHostException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>try (Socket clientSocket = new Socket(&quot;localhost&quot;,6786)) {
+                DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
+                DataInputStream inFromServer = new DataInputStream(clientSocket.getInputStream());
+
+                outToServer.writeInt(2);
+                outToServer.writeInt(1);
+                outToServer.writeInt(4);
+
+            } catch (UnknownHostException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>connectedClient.isClosed()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>connectedClient.isConnected()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>serverSocket.isClosed()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>slave.getServerSocket()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>slave.serverSocket</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>N == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sorter instanceof TCPMergeSorterClient</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>hse.pe172.asgar.zagitov.sorters.TCPMergeSorterClient</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sorter ins</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array.length ==</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>partRightTime</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>allTime</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Slave</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="764" column="72" selection-start-line="764" selection-start-column="51" selection-end-line="764" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerInputHandlerTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/utils/IntegerInputHandlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/utils/IntegerArrayGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="385" column="21" selection-start-line="385" selection-start-column="21" selection-end-line="385" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/main.xml" />
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/ConnectionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/FileHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Before.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/sorters/ThreadMergeSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+          <folding>
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1615" column="19" selection-start-line="1615" selection-start-column="19" selection-end-line="1615" selection-end-column="19" />
+          <folding>
+            <element signature="e#1829#1830#0" expanded="true" />
+            <element signature="e#1854#1855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/sorters/MergeSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/tools/TestSortBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/main_jar/results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/sorters/TCPMergeSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="212" column="34" lean-forward="true" selection-start-line="211" selection-start-column="22" selection-end-line="212" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/Slave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerInputHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/utils/IntegerArrayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <element signature="e#831#832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/ThreadMergeSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/TCPMergeSorterServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hse/pe172/asgar/zagitov/tools/AssertTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/TCPMergeSorterClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2287#2288#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
+            <element signature="e#2447#2448#0" expanded="true" />
+            <element signature="e#2481#2482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="112" column="29" selection-start-line="112" selection-start-column="29" selection-end-line="112" selection-end-column="29" />
+          <folding>
+            <element signature="e#2618#2619#0" expanded="true" />
+            <element signature="e#2648#2649#0" expanded="true" />
+            <element signature="e#2685#2686#0" expanded="true" />
+            <element signature="e#2720#2721#0" expanded="true" />
+            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#2794#2795#0" expanded="true" />
+            <element signature="e#2828#2829#0" expanded="true" />
+            <element signature="e#2860#2861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hse/pe172/asgar/zagitov/sorters/MergeSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>slave:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HW5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
